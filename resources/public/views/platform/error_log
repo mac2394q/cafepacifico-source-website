@@ -1,0 +1,40 @@
+[24-Jun-2019 04:08:24 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/cafepacifico/app/controllers/empresaController.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 10
+[24-Jun-2019 04:08:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/cafepacifico/app/controllers/empresaController.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 10
+[24-Jun-2019 04:08:49 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/cafepacifico/app/controllers/empresaController.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 10
+[24-Jun-2019 04:08:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/cafepacifico/app/controllers/empresaController.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 10
+[24-Jun-2019 04:08:50 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/cafepacifico/app/controllers/empresaController.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 10
+[24-Jun-2019 04:08:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/cafepacifico/app/controllers/empresaController.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 10
+[23-Jun-2019 23:09:05 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'areaController' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php:99
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 99
+[24-Jun-2019 00:01:17 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'reservacionController' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php:116
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 116
+[24-Jun-2019 00:14:16 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'reservacionController' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php:116
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 116
+[24-Jun-2019 00:15:12 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'reservacionController' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php:116
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 116
+[24-Jun-2019 00:15:33 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'reservacionController' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php:116
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 116
+[24-Jun-2019 00:15:54 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'reservacionController' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php:116
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 116
+[24-Jun-2019 00:31:04 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'reservacionController' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php:116
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php on line 116
+[24-Jun-2019 00:31:25 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method reservacion::getIdempresarial() in /home1/portalxn/public_html/cafepacifico/app/controllers/reservacionController.php:95
+Stack trace:
+#0 /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/index.php(116): reservacionController::listadoReservacion()
+#1 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/app/controllers/reservacionController.php on line 95
+[24-Jun-2019 05:56:38 UTC] PHP Parse error:  syntax error, unexpected 'badge' (T_STRING), expecting ',' or ';' in /home1/portalxn/public_html/cafepacifico/app/controllers/reservacionController.php on line 101

@@ -1,0 +1,25 @@
+[01-Jul-2019 11:51:14 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:47:29 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:47:54 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:47:56 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:28 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:33 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:35 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:36 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:36 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:36 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:36 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:36 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:37 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:43 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 19:48:57 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[01-Jul-2019 15:15:07 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'galeriaController' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/galeria/index.php:118
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/galeria/index.php on line 118
+[01-Jul-2019 20:36:52 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/cafepacifico/app/controllers/galeriaController.php on line 111
+[01-Jul-2019 17:58:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method blogDao::listadoGalerias() in /home1/portalxn/public_html/cafepacifico/app/controllers/galeriaController.php:119
+Stack trace:
+#0 /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/galeria/index.php(118): galeriaController::listadoGalerias()
+#1 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/app/controllers/galeriaController.php on line 119

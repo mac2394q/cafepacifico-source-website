@@ -1,0 +1,2 @@
+[01-Jul-2019 11:50:46 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31
+[02-Jul-2019 03:24:41 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home1/portalxn/public_html/cafepacifico/database/DataSource.php on line 31

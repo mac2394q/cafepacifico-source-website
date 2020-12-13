@@ -1,0 +1,22 @@
+[01-Jul-2019 15:25:05 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'rutas' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarBlog.php:74
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarBlog.php on line 74
+[01-Jul-2019 20:31:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function comentarios() in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarComentarios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarComentarios.php on line 7
+[01-Jul-2019 20:31:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function comentarios::__construct(), 4 passed in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarComentarios.php on line 11 and exactly 6 expected in /home1/portalxn/public_html/cafepacifico/app/model/comentarios.php:12
+Stack trace:
+#0 /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarComentarios.php(11): comentarios->__construct(NULL, '8', '19', 'dasd')
+#1 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/app/model/comentarios.php on line 12
+[01-Jul-2019 15:47:36 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'rutas' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarComentarios.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarComentarios.php on line 22
+[01-Jul-2019 15:47:56 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'ruta' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarComentarios.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarComentarios.php on line 22
+[01-Jul-2019 23:13:18 UTC] PHP Parse error:  syntax error, unexpected ''sesion/login.php);' (T_ENCAPSED_AND_WHITESPACE) in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/blog/core/registrarBlog.php on line 74

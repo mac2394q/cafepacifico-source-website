@@ -1,0 +1,9 @@
+[01-Jul-2019 23:45:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method blogController::blodIdSub() in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/galeria/core/subirImagen.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/galeria/core/subirImagen.php on line 9
+[01-Jul-2019 23:46:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function blog::__construct(), 2 passed in /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/galeria/core/subirImagen.php on line 19 and exactly 8 expected in /home1/portalxn/public_html/cafepacifico/app/model/blog.php:14
+Stack trace:
+#0 /home1/portalxn/public_html/cafepacifico/resources/public/views/web/modules/galeria/core/subirImagen.php(19): blog->__construct('16', '0')
+#1 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/app/model/blog.php on line 14

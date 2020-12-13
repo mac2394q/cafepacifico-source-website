@@ -1,0 +1,21 @@
+[02-Jul-2019 01:46:46 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getId_contacto() in /home1/portalxn/public_html/cafepacifico/app/controllers/usuarioController.php:74
+Stack trace:
+#0 /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/usuarios/index.php(73): usuarioController::listadoUsuarios()
+#1 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/app/controllers/usuarioController.php on line 74
+[02-Jul-2019 01:58:20 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method elemento::getNombre() in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/usuarios/verFicha.php:75
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/usuarios/verFicha.php on line 75
+[02-Jul-2019 01:59:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getId_elemento() in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/usuarios/verFicha.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/usuarios/verFicha.php on line 23
+[02-Jul-2019 01:59:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getId_elemento() in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/usuarios/verFicha.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/usuarios/verFicha.php on line 23
+[02-Jul-2019 01:59:06 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method usuario::getId_elemento() in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/usuarios/verFicha.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/usuarios/verFicha.php on line 23

@@ -1,0 +1,8 @@
+[02-Jul-2019 02:22:33 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method reservacion::getNombre() in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/reservaciones/verFicha.php:76
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/reservaciones/verFicha.php on line 76
+[02-Jul-2019 02:22:35 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method reservacion::getNombre() in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/reservaciones/verFicha.php:76
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/reservaciones/verFicha.php on line 76

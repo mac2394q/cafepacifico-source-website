@@ -1,0 +1,8 @@
+[24-Jun-2019 21:54:50 UTC] PHP Fatal error:  Uncaught Error: Class 'rutasController' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/blog/core/registrarBlog.php:40
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/blog/core/registrarBlog.php on line 40
+[02-Jul-2019 08:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioController::usuarioIdBlog() in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/blog/core/modificarBlog.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/blog/core/modificarBlog.php on line 9

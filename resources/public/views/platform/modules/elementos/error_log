@@ -1,0 +1,16 @@
+[24-Jun-2019 01:57:36 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getNombre_empresa() on null in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/elementos/registrarElemento.php:89
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/elementos/registrarElemento.php on line 89
+[24-Jun-2019 01:57:50 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getNombre_empresa() on null in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/elementos/registrarElemento.php:89
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/elementos/registrarElemento.php on line 89
+[24-Jun-2019 02:44:16 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'rutas' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/elementos/verFicha.php:133
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/elementos/verFicha.php on line 133
+[24-Jun-2019 02:46:42 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'rutas' not found in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/elementos/verFicha.php:133
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/cafepacifico/resources/public/views/platform/modules/elementos/verFicha.php on line 133
